@@ -8,9 +8,9 @@ This is presented by Priyanka Fonia, a Data Science and Business Analytics inter
 
 <b>Objective</b>
 
-● Predict the percentage of an student based on the no. of study hours.
+● Predict the percentage of a student based on the no. of study hours.
 
-● What will be predicted score if a student studies for 9.25 hrs/ day?
+● What will be the predicted score if a student studies for 9.25 hrs/ day?
 
 <b>Task includes</b>
 
